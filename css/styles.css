@@ -10947,14 +10947,14 @@ p.lead {
 section.resume-section {
   display: flex;
   align-items: center;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
-  width: 100%;
+  width: 70%;
 }
 
 @media (min-width: 768px) {

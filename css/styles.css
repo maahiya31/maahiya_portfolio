@@ -10947,10 +10947,10 @@ p.lead {
 section.resume-section {
   display: flex;
   align-items: center;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-left: 0.2rem  0;
+  padding-right: 0.2rem  0;
+  padding-top: 2rem  0;
+  padding-bottom: 2rem  0;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
@@ -10964,9 +10964,9 @@ section.resume-section .resume-section-content {
 }
 @media (min-width: 992px) {
   section.resume-section {
-    padding-left: 3rem;
-    padding-right: 3rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-left: 0.2rem  0;
+    padding-right: 0.2rem  0;
+    padding-top: 2rem  0;
+    padding-bottom: 2rem  0;
   }
 }
